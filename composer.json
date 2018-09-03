@@ -4,7 +4,7 @@
     "license": "MIT",
     "autoload": {
 	    "psr-4": {
-		    "thcolin\\SceneReleaseParser\\": "src/"
+		    "ChrisWhite\\SceneReleaseParserPhp\\": "src/"
 	    }
     },
     "require": {
