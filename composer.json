@@ -7,9 +7,7 @@
 		    "ChrisWhite\\SceneReleaseParserPhp\\": "src/"
 	    }
     },
-    "require": {
-        "mhor/php-mediainfo": "~2.1"
-    },
+    "require": {},
     "require-dev": {
         "codeclimate/php-test-reporter": "dev-master",
         "phpunit/phpunit": "^6.2"
